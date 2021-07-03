@@ -4,12 +4,8 @@ author: Rev. Keith Walbolt
 bibliography: chapel.bib
 date:   !exec(date -r !file "+%Y-%m-%d")
 #toc: true
-style:  
-    - GS
-    - Bibliography
-    - AddCSS
 nocite: |
-	@Augsburg1993, @Augsburg1997
+  @Augsburg1993, @Augsburg1997
 ---
 
 
