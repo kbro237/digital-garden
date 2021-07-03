@@ -2,8 +2,7 @@
 title:  'Chapel Calendar 2021'  
 author: Rev. Keith Walbolt  
 bibliography: chapel.bib
-date:   !exec(date -r !file "+%Y-%m-%d")
-#toc: true
+toc: true
 nocite: |
   @Augsburg1993, @Augsburg1997
 ---
