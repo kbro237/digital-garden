@@ -2,7 +2,7 @@
 title:  'Chapel Calendar 2021'  
 author: Rev. Keith Walbolt  
 bibliography: chapel.bib
-toc: true
+table-of-contents: true
 nocite: |
   @Augsburg1993, @Augsburg1997
 ---
